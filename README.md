@@ -39,5 +39,14 @@ http://localhost/path/to/index.php?r=admin/assignment
 ![](https://github.com/Cenyol/yii2-admin-guide/blob/master/4.png?raw=true)
 
 ###5、菜单(Menu)
+这个功能很使用，就是把你想要显示在你导航栏的菜单项列出来，至少我是这么理解的也是这么做的，也如我所想。先来个图：![](https://github.com/Cenyol/yii2-admin-guide/blob/master/5.png?raw=true)
 
+这是造物者这个角色的左侧导航栏显示的菜单。再登陆一下普通员工，截个图：
+![](https://github.com/Cenyol/yii2-admin-guide/blob/master/6.png?raw=true)
 
+对比他们的不同了吧，不一样的人，登陆进来之后，根据他们不同的权限，是可以在这里设置显示不同的菜单的。
+```
+http://localhost/path/to/index.php?r=admin/menu
+```
+
+嗯，基本初步使用这样就够了，有需要再更新，坐一整天脊椎快不行了，回去跑个步。
