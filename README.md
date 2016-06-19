@@ -1,4 +1,3 @@
-
 ###1、安装（Install）
 这个就不说了，还是比较简单的。通过composer来，见：https://github.com/mdmsoft/yii2-admin.如果墙内的小伙伴觉得composer慢得跟便秘一样的话，有方法的：http://pkg.phpcomposer.com
 
@@ -25,4 +24,3 @@ http://localhost/path/to/index.php?r=admin/role
 ```
 此时这里也是没有东西，你进去给我建几个角色，角色可以互相继承的。角色建好之后，是这样的，比如下面这图：（不能传图真不方便！）
 图1占坑
-
