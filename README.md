@@ -1,5 +1,5 @@
 ###1、安装（Install）
-这个就不说了，还是比较简单的。通过composer来，见：https://github.com/mdmsoft/yii2-admin.如果墙内的小伙伴觉得composer慢得跟便秘一样的话，有方法的：http://pkg.phpcomposer.com
+这个就不说了，还是比较简单的。通过composer来，见：https://github.com/mdmsoft/yii2-admin 如果墙内的小伙伴觉得composer慢得跟便秘一样的话，有方法的：http://pkg.phpcomposer.com
 
 
 ###2、路由（Route）
